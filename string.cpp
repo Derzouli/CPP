@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+// to use the compound type of string class, we have to include string header.
 using namespace std;
 
 int main()
